@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amin\\source\\repos\\NTierArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\application\\services\\concrete\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\application\\services\\concrete\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\data\\repository\\concrete\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|solutionrelative:data\\repository\\concrete\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|solutionrelative:core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\core\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|solutionrelative:core\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B02914A-3ECA-463B-A44B-AA707F4DD487}|Presentation\\Presentation.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B02914A-3ECA-463B-A44B-AA707F4DD487}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\data\\repository\\abstract\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|solutionrelative:data\\repository\\abstract\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\data\\repository\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|solutionrelative:data\\repository\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\data\\repository\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|solutionrelative:data\\repository\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|solutionrelative:core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\data\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F029D8-9E50-4DA6-A9E4-C1B1EC3839E1}|Data\\Data.csproj|solutionrelative:data\\unitofwork\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\core\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|solutionrelative:core\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\core\\constants\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293B6DBF-8712-4DAA-AC85-AE3CEC422FEF}|Core\\Core.csproj|solutionrelative:core\\constants\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\application\\services\\abstract\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|solutionrelative:application\\services\\abstract\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|c:\\users\\amin\\source\\repos\\ntierarch\\application\\services\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658C13D7-B43B-4B38-A183-CE2372387B3E}|Application\\Application.csproj|solutionrelative:application\\services\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Entities\\Student.cs",
+              "RelativeToolTip": "Core\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:05:39.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Entities\\Group.cs",
+              "RelativeToolTip": "Core\\Entities\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:50:10.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Concrete\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Concrete\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Concrete\\GroupRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Concrete\\GroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:16:15.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Abstract\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Abstract\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Abstract\\IGroupRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Abstract\\IGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:17:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWork\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:11:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Constants\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Constants\\ConnectionStrings.cs",
+              "RelativeToolTip": "Core\\Constants\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:03:28.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:57:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Constants\\Messages.cs",
+              "RelativeToolTip": "Core\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:42:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Options.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Constants\\Options.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Options.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Core\\Constants\\Options.cs",
+              "RelativeToolTip": "Core\\Constants\\Options.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:37:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Concrete\\StudentService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:34:14.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Base\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Base\\Repository.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Base\\Repository.cs",
+              "RelativeToolTip": "Data\\Repository\\Base\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:32:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Base\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Data\\Repository\\Base\\IRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Base\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:32:49.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Abstract\\IStudentService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstract\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:32:46.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstract\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Abstract\\IGroupService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstract\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:32:44.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Application\\Services\\Concrete\\GroupService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\GroupService.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAowKsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:24:04.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\NTierArch\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:31:41.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
