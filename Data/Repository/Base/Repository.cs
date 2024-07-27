@@ -28,11 +28,13 @@ public class Repository<T> : IRepository<T> where T : BaseEntity
 
     public void Add(T item)
     {
+        item.CreatedAt = DateTime.Now;
         _dbTable.Add(item);
     }
 
     public void Update(T item)
     {
+        item.ModifiedAt = DateTime.Now;
         _dbTable.Update(item);
     }
 
